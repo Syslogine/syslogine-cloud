@@ -1,0 +1,17 @@
+baseURL: https://syslogine.cloud
+languageCode: en-us
+title: Syslogine Docs | Code Library
+description: Small library with useful tips, tutorials and tools collected from the internet and hosted in one location.
+theme: [docsy]
+
+
+menu:
+  main:
+    - name: Documentation
+      weight: 1
+      url: /docs
+      post: <sup><i class="pl-1 fa-solid fa-up-right-from-square fa-xs" aria-hidden="true"></i></sup>
+    - name: Hosting
+      weight: 2
+      url: https://example.docsy.dev
+      post: <sup><i class="pl-1 fa-solid fa-up-right-from-square fa-xs" aria-hidden="true"></i></sup>
